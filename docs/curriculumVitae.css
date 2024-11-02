@@ -1,10 +1,10 @@
 @font-face {
     font-family: Joan;
-    src: url(../fonts/Joan-Regular.ttf);
+    src: url(./fonts/Joan-Regular.ttf);
 }
 @font-face {
     font-family: Kantumruy-Pro;
-    src: url(../fonts/KantumruyPro-VariableFont_wght.ttf);
+    src: url(./fonts/KantumruyPro-VariableFont_wght.ttf);
 }
 
 :root{
